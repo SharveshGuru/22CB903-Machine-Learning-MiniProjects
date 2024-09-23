@@ -65,9 +65,9 @@ The script generates a visualization of the sentiment distribution among the rev
 Example output:
 ```
 Sentiment Distribution:
-Positive    XXX
-Neutral     XX
-Negative    X
+Positive    82
+Neutral     14
+Negative    1
 ```
 
 (Replace X's with actual numbers from your analysis)
