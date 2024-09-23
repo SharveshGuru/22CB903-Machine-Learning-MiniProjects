@@ -21,8 +21,8 @@ This project performs sentiment analysis on product reviews scraped from Flipkar
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sentiment-analysis-project.git
-   cd sentiment-analysis-project
+   git clone https://github.com/SharveshGuru/22CB903-Machine-Learning-MiniProjects.git
+   cd 22CB903-Machine-Learning-MiniProjects/01-Sentiment\ Analysis\ of\ Product\ Reviews
    ```
 
 2. Install the required packages:
